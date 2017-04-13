@@ -33,4 +33,4 @@ Colors Section-List colors used on the site
 Base Styles Section-List code used for comment elements
 Pattern Styles Section-List all common design components
 
-http:[Style Guide Boilerplate](//bjankord.github.io/Style-Guide-Boilerplate/)
+[Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/)
