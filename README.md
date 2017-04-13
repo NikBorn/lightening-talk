@@ -24,7 +24,7 @@ Shared Vocabulary
 
 Useful Reference
 
-examples
+EXAMPLES
 
 [Starbucks](https://www.starbucks.com/static/reference/styleguide/)
 
